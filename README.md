@@ -98,7 +98,9 @@ A curated list of awesome curated lists of many topics.
 
 ## Web browsers
 
+* [awesome-chrome-extensions](https://github.com/tushar-borole/awsome-chrome-extensions) - A curated list of chrome extensions.
 * [awesome-firefox](https://github.com/Hunter-Github/awesome-firefox) - A curated list of resources for and about Mozilla Firefox.
+* [awsome-tor] - Not yet! Do it yourself!
 
 ## Websites
 
